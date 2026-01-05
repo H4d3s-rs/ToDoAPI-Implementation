@@ -1,0 +1,14 @@
+- Todo Item (Entity)
+    - Id (int)
+    - Title (string)
+    - Description (string)
+    - IsCompleted (bool)
+    - DueDate (datetime, nullable)
+    - CreatedAt (datetime)
+    - UpdatedAt (datetime)
+    - DeletedAt (datetime, nullable)
+
+- Service Response
+    - message
+    - data 
+    - success
